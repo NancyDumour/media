@@ -1,0 +1,133 @@
+{
+  "users": [
+    {
+      "name": "Sonja Ortiz",
+      "id": 6
+    },
+    {
+      "name": "Julie Bartoletti",
+      "id": 7
+    },
+    {
+      "name": "Gwen VonRueden",
+      "id": 8
+    },
+    {
+      "name": "Carrie Zboncak",
+      "id": 9
+    },
+    {
+      "name": "Kyle Harvey PhD",
+      "id": 10
+    },
+    {
+      "name": "Elias Kilback",
+      "id": 11
+    },
+    {
+      "name": "Percy Quigley",
+      "id": 12
+    },
+    {
+      "name": "Bobby Hyatt",
+      "id": 13
+    },
+    {
+      "name": "Ms. Jaime Cummerata DVM",
+      "id": 14
+    },
+    {
+      "name": "Anne Becker DDS",
+      "id": 15
+    }
+  ],
+  "albums": [
+    {
+      "userId": 6,
+      "title": "Rustic Granite Shoes",
+      "id": 1
+    },
+    {
+      "userId": 7,
+      "title": "Ergonomic Wooden Chair",
+      "id": 2
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=12539",
+      "id": 1
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=13008",
+      "id": 2
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=39774",
+      "id": 3
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=14423",
+      "id": 6
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=80966",
+      "id": 7
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=54615",
+      "id": 9
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=22629",
+      "id": 10
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=96870",
+      "id": 11
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=53060",
+      "id": 12
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=42974",
+      "id": 13
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1959",
+      "id": 14
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=68611",
+      "id": 15
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=73763",
+      "id": 16
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=48649",
+      "id": 17
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=56283",
+      "id": 18
+    }
+  ]
+}
